@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ishusb
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning web develpoment, programming languages(python,c,java)
+- 🌱 I’m currently javacript, programming languages(python,c,java)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me gmail(ishusb2002@gamil.com)
 
